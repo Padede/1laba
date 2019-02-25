@@ -31,12 +31,7 @@ namespace _1laba
             home_number = int.Parse(Console.ReadLine());
         }
 
-        public Address()
-        {
-            city = "Новополоцк";
-            street = "Молодежная";
-            home_number = 4;
-        }
+
 
     }
 
