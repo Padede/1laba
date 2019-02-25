@@ -8,6 +8,14 @@ namespace _1laba
 {
     class Program
     {
+        class Address
+        {
+            public string city;
+            public string street;
+            public int home_number;
+            
+        }
+
         static void Main(string[] args)
         {
         }
