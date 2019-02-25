@@ -47,9 +47,6 @@ namespace _1laba
 
         static void Main(string[] args)
         {
-            Address a = new Address();
-            a.print();
-            Console.ReadLine();
         }
     }
 }
